@@ -1,5 +1,5 @@
 # HackerRank
-My HackerRank solutions and challenges
+***My HackerRank solutions and challenges***
 
 ![](Solution/Badage.png)
 
