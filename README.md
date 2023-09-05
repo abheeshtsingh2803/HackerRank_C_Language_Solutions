@@ -10,4 +10,4 @@ My HackerRank solutions and challenges
 
 | No | Question Name | Difficulty | Score | Solution(s) | Subject | HR Link |
 |--|--|--|--|--|--|--|
-| 1 | [**Day 1 : Hello, World**] | Easy | 30 | 1 | `str` | [link] |
+| 1 | [**Day 1 : Hello, World**](https://Solution/HelloWorld!.md) | Easy | 30 | 1 | `str` | [link](https://www.hackerrank.com/challenges/hello-world-c/problem?isFullScreen=true) |
