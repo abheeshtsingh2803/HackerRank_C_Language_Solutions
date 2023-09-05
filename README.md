@@ -11,5 +11,5 @@
 
 | No | Question Name | Difficulty | Score | Solution(s) | Subject | HR Link |
 |--|--|--|--|--|--|--|
-| 1 | [**Day 1 : Hello, World**](https://Solution/HelloWorld!.md) | Easy | 30 | 1 | `str` | [link](https://www.hackerrank.com/challenges/hello-world-c/problem?isFullScreen=true) |
-| 2 | [**Day 2 : Playing With Characters**](https://Solution/Playingwithcharacters.md) | Easy | 30 | 1 | `str` | [link](https://www.hackerrank.com/challenges/playing-with-characters/problem?isFullScreen=true) |
+| 1 | [**Day 1 : Hello, World**](https://Solution/HelloWorld!.md) | Easy | 5 | 1 | `str` | [link](https://www.hackerrank.com/challenges/hello-world-c/problem?isFullScreen=true) |
+| 2 | [**Day 2 : Playing With Characters**](https://Solution/Playingwithcharacters.md) | Easy | 5 | 1 | `str` | [link](https://www.hackerrank.com/challenges/playing-with-characters/problem?isFullScreen=true) |
