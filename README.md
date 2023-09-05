@@ -1,6 +1,7 @@
 # HackerRank
 My HackerRank solutions and challenges
 
+![](Solution/Badage.png)
 
 <br>
 
