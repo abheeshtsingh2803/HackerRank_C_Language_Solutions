@@ -1,5 +1,7 @@
-# Day - 02 - Playing with Characters
+# Day #02 - Playing with Characters
 ## Problem
+
+<br>
 
 This challenge will help you to learn how to take a character, a string and a sentence as input in C.
 
@@ -60,7 +62,7 @@ Welcome To C!!
 
 ```
 
-***Solution***
+## Solution
 
 ```
 
