@@ -65,3 +65,16 @@ int main()
     return 0;
 }
 ```
+
+***Input (stdin)***
+
+```
+Welcome to C programming.
+```
+
+***Expected Output***
+
+```
+Hello, World!
+Welcome to C programming.
+```
