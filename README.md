@@ -17,4 +17,5 @@
 | 4 | [**Day 4 : Functions in C**](Solution/Function_in_C.md) | Easy | 10 | 1 | `Function` | [link](https://www.hackerrank.com/challenges/functions-in-c/problem?isFullScreen=true) |
 | 5 | [**Day 5 : Pointer in C**](Solution/Pointer_in_C.md) | Easy | 10 | 1 | `Pointer` | [link](https://www.hackerrank.com/challenges/pointer-in-c/problem?isFullScreen=true) |
 | 6 | [**Day 6 : Conditional Statement in C**](Solution/Conditional_statement_in_C.md) | Easy | 10 | 1 | `Conditional Statement` `Array` | [link](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem?isFullScreen=true) |
-| 6 | [**Day 6 : For Loop in C**](Solution/For_loop_in_C.md) | Easy | 10 | 1 | `For loop` `Array` | [link](https://www.hackerrank.com/challenges/for-loop-in-c/problem?isFullScreen=true) |
+| 6 | [**Day 6 : For Loop in C**](Solution/For_loop_in_C.md) | Easy | 10 | 1 | `Loop` `Array` | [link](https://www.hackerrank.com/challenges/for-loop-in-c/problem?isFullScreen=true) |
+| 7 | [**Day 7 : For Loop in C**](Solution/Sum_of_digits_of_a_five_digit_number.md) | Easy | 10 | 1 | `Loop` | [link](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem?isFullScreen=true) |
