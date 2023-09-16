@@ -62,7 +62,7 @@ lw4n88j12n1
 
 ```
 
-## Solution
+## Solution #01
 ```C
 #include <stdio.h>
 #include <string.h>
@@ -118,5 +118,31 @@ int main() {
     printf("%d ", count8);
     printf("%d ", count9);
     return 0;
+}
+```
+
+## Solution #02
+```C
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+int main() {
+    
+    char arr[10];
+    for(int i=0;i<10;i++){
+        arr[i]=0;
+    }    
+    char num;
+    while(scanf("%c",&num)==1){
+        int temp=(int)num-48;
+        if(0<=temp ||temp<=9){
+            arr[temp]+=1;
+        }
+    }
+    for(int i=0;i<10;i++){
+        printf("%d ",arr[i]);
+    }
 }
 ```
