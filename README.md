@@ -21,3 +21,4 @@
 | 7 | [**Day 7 : Sum of digits of a five digit number**](Solution/Sum_of_digits_of_a_five_digit_number.md) | Easy | 10 | 1 | `Loop` | [link](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem?isFullScreen=true) |
 | 8 | [**Day 8 : Array Reversal**](Solution/Array_reversal.md) | Easy | 10 | 1 | `Array` | [link](https://www.hackerrank.com/challenges/reverse-array-c/problem?isFullScreen=true) |
 | 9 | [**Day 9 : Printing Token**](Solution/Printing_tokens.md) | Medium | 20 | 1 | `Array` `Dyanamic memory` | [link](https://www.hackerrank.com/challenges/printing-tokens-/problem?isFullScreen=true) |
+| 10 | [**Day 10 : Digit Frequency**](Solution/Digit_frequency.md) | Medium | 25 | 2 | `Array` `Dyanamic memory` `Control Statement` | [link](https://www.hackerrank.com/challenges/frequency-of-digits-1/problem?isFullScreen=true) |
