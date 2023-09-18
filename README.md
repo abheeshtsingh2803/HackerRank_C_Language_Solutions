@@ -23,3 +23,4 @@
 | 9 | [**Day 9 : Printing Token**](Solution/Printing_tokens.md) | Medium | 20 | 1 | `Array` `Dyanamic memory` | [link](https://www.hackerrank.com/challenges/printing-tokens-/problem?isFullScreen=true) |
 | 10 | [**Day 10 : Digit Frequency**](Solution/Digit_frequency.md) | Medium | 25 | 2 | `Array` `Dyanamic memory` `Control Statement` | [link](https://www.hackerrank.com/challenges/frequency-of-digits-1/problem?isFullScreen=true) |
 | 11 | [**Day 11 : Printing Pattern Using Loop**](Solution/Printing_pattern_using_loop.md) | Medium | 30 | 1 | `Lopp` `Control Statement` | [link](https://www.hackerrank.com/challenges/printing-pattern-2/problem?isFullScreen=true) |
+| 12 | [**Day 12 : 1D Array in C**](Solution/1D_Array_in_C.md) | Medium | 10 | 1 | `Lopp` `Control Statement` | [link](https://www.hackerrank.com/challenges/1d-arrays-in-c/problem?isFullScreen=true) |
