@@ -1,4 +1,4 @@
-# Day #12 - Dynamic Array in C
+# Day #13 - Dynamic Array in C
 ## Problem
 
 Snow Howler is the librarian at the central library of the city of HuskyLand. He must handle requests which come in the following forms:
