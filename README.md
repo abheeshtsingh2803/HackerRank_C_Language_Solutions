@@ -25,3 +25,4 @@
 | 11 | [**Day 11 : Printing Pattern Using Loop**](Solution/Printing_pattern_using_loop.md) | Medium | 30 | 1 | `Loop` `Control Statement` | [link](https://www.hackerrank.com/challenges/printing-pattern-2/problem?isFullScreen=true) |
 | 12 | [**Day 12 : 1D Array in C**](Solution/1D_Array_in_C.md) | Medium | 10 | 1 | `Loop` `Control Statement` | [link](https://www.hackerrank.com/challenges/1d-arrays-in-c/problem?isFullScreen=true) |
 | 13 | [**Day 13 : Dynamic Array in C**](Solution/Dynamic_Array_in_C.md) | Medium | 40 | 1 | `Loop` `Control Statement` `Dynamic memory` | [link](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem?isFullScreen=true) |
+| 14 | [**Day 14 : Calculate the Nth term**](Solution/Calculate_the_Nth_term.md) | Easy | 15 | 1 | `Recursion` | [link](https://www.hackerrank.com/challenges/recursion-in-c/problem) |
