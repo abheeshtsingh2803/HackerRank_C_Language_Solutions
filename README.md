@@ -29,3 +29,4 @@
 | 15 | [**Day 15 : Students Marks Sum**](Solution/Students_Marks_Sum.md) | Easy | 20 | 1 | `Loop` `control statement` `function` | [link](https://www.hackerrank.com/challenges/students-marks-sum/problem?isFullScreen=true) |
 | 16 | [**Day 16 : Sorting Array Of Strings**](Solution/SortingArrayOfStrings.md) | Difficult | 40 | 1 | `Loop` `control statement` `function` | [link](https://www.hackerrank.com/challenges/sorting-array-of-strings/problem?isFullScreen=true) |
 | 17 | [**Day 17 : Permutations Of Strings**](Solution/PermutationOfStrings.md) | Difficult | 40 | 1 | `Loop` `control statement` `function` | [link](https://www.hackerrank.com/challenges/permutations-of-strings/problem?isFullScreen=true) |
+| 18 | [**Day 18 : Variadic functions in C**](Solution/Variadic_functions_in_C.md) | Medium | 50 | 1 | `Loop` `control statement` `function` | [link](https://www.hackerrank.com/challenges/variadic-functions-in-c/problem?isFullScreen=true) |
