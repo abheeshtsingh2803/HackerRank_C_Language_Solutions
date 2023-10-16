@@ -32,3 +32,4 @@
 | 18 | [**Day 18 : Variadic functions in C**](Solution/Variadic_functions_in_C.md) | Medium | 50 | 1 | `Loop` `control statement` `function` | [link](https://www.hackerrank.com/challenges/variadic-functions-in-c/problem?isFullScreen=true) |
 | 19 | [**Day 19 : Querying the Document**](Solution/Querying_the_Document.md) | Hard | 60 | 1 | `Loop` `control statement` `function` | [link](https://www.hackerrank.com/challenges/querying-the-document/problem?isFullScreen=true) |
 | 20 | [**Day 20 : Boxes through a Tunnel**](Solution/Boxes_through_a_Tunnel.md) | Easy | 25 | 1 | `Loop` `control statement` `function` | [link](https://www.hackerrank.com/challenges/too-high-boxes/problem?isFullScreen=true) |
+| 21 | [**Day 21 : Bitwise Operators**](Solution/Bitwise_Operators.md) | Easy | 15 | 1 | `Loop` `control statement` `function` | [link](https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem?isFullScreen=true) |
